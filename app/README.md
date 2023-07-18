@@ -13,7 +13,7 @@ Enter gradle run
 
 ### Time and Score
 After the clock hits 60 minutes it will go back to 0. 
-ball colour (points): red (1), yellow (2), green (3), brown (4), blue (5), 
+Ball colour (points): red (1), yellow (2), green (3), brown (4), blue (5), 
 purple (6), black (7), orange (8)
 
 
@@ -46,7 +46,7 @@ The following are the digits and the corresponding coloured ball it will remove:
 * 8: orange
 
 ## Design patterns used
-Prototype: Prototype.Prototype, Prototype.PocketPrototypeFactory, Items.Ball, Items.Pocket
-Memento: Memento.Caretaker, Memento.Memento, Items.PoolTable
-Observer: Observer.Subject, Observer.Clock, Items.Ball, Observer.Observer, Observer.ClockObserver, 
-Observer.BallObserver
+* Prototype: Prototype.Prototype, Prototype.PocketPrototypeFactory, Items.Ball, Items.Pocket
+* Memento: Memento.Caretaker, Memento.Memento, Items.PoolTable
+* Observer: Observer.Subject, Observer.Clock, Items.Ball, Observer.Observer, Observer.ClockObserver,
+  Observer.BallObserver
