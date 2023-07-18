@@ -4,7 +4,7 @@
 Enter gradle run
 
 ## How to play the game
-click and drag the white ball before releasing to move the white ball towards the opposite of the dragging direction. Bounce the white ball to the other balls to push them towards the pockets. Putting the coloured balls into the pockets will increase the score. 
+click and drag the white ball before releasing to move the white ball towards the opposite of the dragging direction. Bounce the white ball to the other balls to push them towards the pockets. Putting the coloured balls into the pockets will increase the score. Putting the white ball into the pocket will restart the game to the beginning.
 
 ## Game features
 * Multiple Difficulty Levels
