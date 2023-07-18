@@ -1,9 +1,10 @@
 # PoolGame
 
-## Commands
-
-### Running the code/Starting the game
+## Starting the game
 Enter gradle run
+
+## How to play the game
+click and drag the white ball before releasing to move the white ball towards the opposite of the dragging direction. Bounce the white ball to the other balls to push them towards the pockets. Putting the coloured balls into the pockets will increase the score. 
 
 ## Game features
 * Multiple Difficulty Levels
